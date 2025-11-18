@@ -32,11 +32,9 @@ print(i)
 i+=1
 ```
 ### OUTPUT
-```
-<img width="1175" height="287" alt="438747433-f2ed883c-f413-416c-8dbb-52530c0f5e30" src="https://github.com/user-attachments/assets/6f98375f-220a-4a7e-b56a-16aae579a81f" />
 
+<img width="1175" height="287" alt="image_9" src="https://github.com/user-attachments/assets/a8beb084-9e44-4517-bebc-05ff0afb0462" />
 
-```
 ### RESULT
 ```
 Thus, the Python program to print n natural numbers using a for loop has been implemented and executed successfully.
