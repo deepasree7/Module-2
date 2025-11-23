@@ -33,7 +33,8 @@ i+=1
 ```
 ### OUTPUT
 
-<img width="1175" height="287" alt="image_9" src="https://github.com/user-attachments/assets/a8beb084-9e44-4517-bebc-05ff0afb0462" />
+<img width="709" height="672" alt="image_13" src="https://github.com/user-attachments/assets/6bd90d73-def7-4b48-8240-3c7c3f722b3a" />
+
 
 ### RESULT
 
