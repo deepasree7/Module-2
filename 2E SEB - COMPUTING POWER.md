@@ -12,10 +12,11 @@ To write a Python program to compute the power of a given number using an approp
 6. Terminate the program.
 
 # PROGRAM
+```
 y=4 
 z=pow(x,y) 
 print(z)
-
+```
 # OUTPUT
 <img width="365" height="186" alt="image" src="https://github.com/user-attachments/assets/5dd0925c-65b3-4fde-8758-e62e51ccc5fd" />
 
